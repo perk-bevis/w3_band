@@ -271,6 +271,7 @@ html{
     top: 100%;
     left: 0;
 }
+/*:hover là tác dụng vào selector khi di chuột qua*/
 #nav .subnav li:hover a,
 #nav > li:hover > a{
     color: #000;
@@ -292,7 +293,7 @@ html{
     padding: 0px 21px;
 }
 
-
+/*:hover là tác dụng vào selector khi di chuột qua*/
 #header .search-btn:hover{
     background-color: #f44336;
     cursor: pointer;
